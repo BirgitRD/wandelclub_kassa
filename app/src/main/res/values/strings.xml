@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Kassa</string>
+    <string name="version" translatable="false">v0.23</string>
+    <string name="toPay">Te betalen</string>
+    <string name="gotPay">Reeds ontvangen</string>
+    <string name="leftPay">Openstaand saldo</string>
+    <string name="reset">Reset</string>
+    <string name="settings">Instellingen</string>
+    <string name="back">Terug</string>
+    <string name="settingsInstruction">Selecteer een ticket om dit te wijzigen</string>
+    <string name="save">Bewaren</string>
+    <string name="cancel">Annuleren</string>
+    <string name="changePrice">Bedrag aanpassen</string>
+    <string name="newPrice">Geef nieuw bedrag</string>
+</resources>

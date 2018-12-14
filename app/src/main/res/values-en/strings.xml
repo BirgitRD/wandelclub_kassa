@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="toPay">Total to pay</string>
+    <string name="gotPay">Amount received</string>
+    <string name="leftPay">Open balance</string>
+    <string name="reset">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="back">Back</string>
+    <string name="settingsInstruction">Select a ticket to change it</string>
+    <string name="save">Save changes</string>
+    <string name="cancel">Cancel</string>
+    <string name="changePrice">Change price</string>
+    <string name="newPrice">Enter new price</string>
+</resources>
